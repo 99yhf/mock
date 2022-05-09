@@ -3,5 +3,9 @@
     "name": { "string": { } },
     "online": { "boolean": {} },
     "picture": { "regexp": "https://…" }
+  },
+  "Test": {
+    "title": { "string": {} },
+    "state": { "int": {0: "string", 1: "string"}}
   }
 }
