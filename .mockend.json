@@ -1,9 +1,19 @@
 {
-  "ModelName": {
-    "fieldName": {
-      "<type>": {} | [],
+  "test": {
+    "s1": {
+      "id": 1,
       "hasMany": "Model",
       "belongsTo": "Model"
-    }
+    },
+    "s2": {
+      "id": 2,
+      "hasMany": "Model",
+      "belongsTo": "Model"
+    },
+    "s3": {
+      "id": 3,
+      "hasMany": "Model",
+      "belongsTo": "Model"
+    },
   }
 }
