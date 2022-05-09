@@ -6,6 +6,6 @@
   },
   "Test": {
     "title": { "string": {} },
-    "state": { "int": {0: "string", 1: "string"}}
+    "state": { "int": {"min": 0, "max": 1}}
   }
 }
